@@ -1,2 +1,2 @@
-## Oiii! Eu Dedeh Santos
+## Oiii! Eu sou Dedeh Santos
  
