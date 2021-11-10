@@ -8,7 +8,7 @@
 
 
 app.get("/Sobre", function(req, res){
-    res.send("Minhas Pagina sobre");
+    res.sendFile(__dirname + "/html/sobre.html")
 })
 
 app.get("/blog", function(req, res){
